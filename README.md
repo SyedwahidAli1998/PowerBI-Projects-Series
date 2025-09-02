@@ -8,6 +8,7 @@ Each project is designed to demonstrate different **Power BI features**, **DAX c
 | Project Name              | Description                                   |  Dataset Source       |
 |---------------------------|-----------------------------------------------|-----------------------|
 | **HR Analytics**          | Employee performance & attrition dashboard    | HR Dataset from Kaggle| 
+| **SALES Analytics**       | Amazon product sales performance & attrition dashboard    | Dataset from Website  | 
 
 ⚡ More projects will be added as the series continues.
 🛠️ Tools & Technologies
